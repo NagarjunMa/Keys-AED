@@ -1,0 +1,20 @@
+# NetBeans specific #
+../.DS_Store
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+.DS_Store
+src/.DS_Store
+
+nb-configuration.xml
+
+# Class Files #
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
